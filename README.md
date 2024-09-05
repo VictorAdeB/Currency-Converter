@@ -49,7 +49,3 @@ Check out the live version of the **Currency Converter** here: [Currency Convert
 - **Tailwind CSS**: For styling the application.
 - **Free Currency Exchange Rates API**: For fetching live currency exchange rates.
 - **Netlify**: This is used to deploy the application.
-
----
-
-Feel free to customize the content, add the correct image URL, and replace the deployment link with the actual version of your app!
