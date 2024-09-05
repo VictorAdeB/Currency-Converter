@@ -1,6 +1,3 @@
-Sure! Here’s a well-structured and human-friendly `README.md` for a Currency Converter project:
-
----
 
 # 🌍 Currency Converter
 
@@ -50,8 +47,8 @@ Check out the live version of the **Currency Converter** here: [Currency Convert
 
 - **React**: For building the user interface.
 - **Tailwind CSS**: For styling the application.
-- **ExchangeRate-API**: For fetching live currency exchange rates.
-- **Netlify**: For deploying the application.
+- **Free Currency Exchange Rates API**: For fetching live currency exchange rates.
+- **Netlify**: This is used to deploy the application.
 
 ---
 
