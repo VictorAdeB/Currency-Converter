@@ -14,7 +14,7 @@ Welcome to the **Currency Converter** project! This application allows users to 
 - **Frontend**: React.js (JavaScript library for building interactive UIs).
 - **Styling**: Tailwind CSS (for clean and customizable UI styling).
 - **API**: Exchange rates provided by the [Free Currency Exchange Rates API](https://github.com/fawazahmed0/exchange-api?tab=readme-ov-file).
-- **State Management**: React hooks (`useState`, `useEffect`) to handle currency data and user input.
+- **State Management**: React hooks (`useState`, `useEffect`) to handle API requests, currency data and user input.
 - **Deployment**: Hosted on Netlify.
 
 ## 🚀 Deployed Version
@@ -23,13 +23,13 @@ Check out the live version of the **Currency Converter** here: [Currency Convert
 
 ## 🖼️ Sample Image of the Deployed App
 
-![Currency Converter](https://imgur.com/a/cjmZb9y)  
+![Currency Converter]([https://imgur.com/a/cjmZb9y](https://imgur.com/a/currencyconverter-cjmZb9y))
 
 ## 🛠️ Setup Instructions
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/currency-converter.git
+   git clone https://github.com/VictorAdeB/currency-converter.git
    cd currency-converter
    ```
 
