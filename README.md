@@ -1,11 +1,11 @@
 
 # 🌍 Currency Converter
 
-Welcome to the **Currency Converter** project! This application allows users to convert amounts between various currencies with live exchange rates. The app is intuitive, fast, and user-friendly.
+Welcome to the **Currency Converter** project! This application allows users to convert amounts between currencies and coins with live exchange rates. The app is intuitive, fast, and user-friendly.
 
 ## 🚀 Features
 
-- Convert between 150+ currencies in real-time.
+- Convert between 250+ currencies and coins in real time.
 - Automatically fetches live exchange rates.
 - Desktop-first interface.
 
