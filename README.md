@@ -19,7 +19,7 @@ Welcome to the **Currency Converter** project! This application allows users to 
 
 ## 🚀 Deployed Version
 
-Check out the live version of the **Currency Converter** here: [Currency Converter - Live](https://currency-crypto-conv.netlify.app/)  
+Check out the live version of the **Currency Converter** here: [Currency Converter - Live](https://converter.victorlayade.com/)  
 
 ## 🖼️ Sample Image of the Deployed App
 
