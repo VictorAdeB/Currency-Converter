@@ -48,4 +48,4 @@ Check out the live version of the **Currency Converter** here: [Currency Convert
 - **React**: For building the user interface.
 - **Tailwind CSS**: For styling the application.
 - **Free Currency Exchange Rates API**: For fetching live currency exchange rates.
-- **Netlify**: This is used to deploy the application.
+- **Vercel**: This is used to deploy the application.
